@@ -1,1 +1,7 @@
-acestuffdupe.txt | Різне (Misc) | тест
+acedupetank.txt | Танки (Tanks)
+acedupecombat.txt | Бойові машини (Combat vehicles)
+acedupeaviation.txt | Авіація (Aviation)
+acedupenavy.txt | Флот (Navy)
+acedupedrone.txt | Безпілотна техніка (UAV)
+acedupecivil.txt | Цивільний транспорт (Civil transport)
+acedupemisc.txt | Різне (Misc)
