@@ -1,5 +1,1 @@
 obj906me1.txt | Obj-906M1 | by OroheksPlus
-m60a1.txt | M60A1 | by ItsnotEd
-pt76.txt | ПТ-76 (PT-76) | by ItsnotEd
-m113hvms.txt | M113 HVMS | by ItsnotEd
-mtlb.txt | МТ-ЛБ (MT-LB) | by Ya
