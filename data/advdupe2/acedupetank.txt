@@ -1,1 +1,2 @@
-obj906me1.txt | Obj-906M1 | by OroheksPlus
+obj906me1.txt | Obj-906M1 | by OroheksPlus, modified Psevdo
+T-39M1.txt | T-39M1 | by Goodva
