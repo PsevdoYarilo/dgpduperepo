@@ -1,2 +1,4 @@
 obj906me1.txt | Obj-906M1 | by OroheksPlus, modified Psevdo
 T-39M1.txt | T-39M1 | by Goodva
+harp rno mk1.txt | T-39M1 | DianDaoFish, modified Psevdo
+kf51.txt | KF51 | Chiyo (千夜), modified Psevdo
